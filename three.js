@@ -20,7 +20,7 @@ console.log(typeof price);
 console.log(typeof rating);
 console.log(typeof discount);
 console.log(typeof seats);
-
+console.log(typeof mydata);
 console.log(mydata);
 
 
