@@ -1,10 +1,10 @@
 // var Marks = [2,4,5,8,10]
 // console.log(Marks);
 // console.log(typeof Marks)
-var name=78;
-name="79";
-function gscopr{
-      
+var myObj={
+      name:"Rahul",
+      age:"45",
+      sal:"45000"
 }
-
-console.log(typeof name)
+console.log(myObj)
+console.log(typeof myObj)
