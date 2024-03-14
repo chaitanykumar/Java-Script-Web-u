@@ -26,6 +26,7 @@
 var a=10;
 var b=20;
 var c=10;
+var d="10";
 
 // true if a and c are same (same-number)
 
@@ -62,4 +63,12 @@ console.log("<br>");
 
 console.log(a + "tab" + b + ":");
 console.log(a<=b);
+console.log("<br>")
+    
+// strictly equval operator
+console.log(c + "table" + d + ":");
+console.log(c===d);//value && datatype 
+console.log(c==d); //value
+console.log(2+6);
+console.log(2+"6");
 
