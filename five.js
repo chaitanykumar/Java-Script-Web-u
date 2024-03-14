@@ -1,22 +1,65 @@
-var a=6;
-var c=7;
-var b=6;
-var d="6";
-console.log(a + "==" + b + ":")
-console.log(a==b);
+// var a=6;
+// var c=7;
+// var b=6;
+// var d="6";
+// console.log(a + "==" + b + ":")
+// console.log(a==b);
+// console.log("<br>");
+// console.log(a + "!=" + b + ":");
+// console.log(a!=b);
+// console.log("<br>");
+// console.log(a + "!=" + c + ":");
+// console.log(a!=c);
+// console.log("<br>");
+// console.log(a + "<" + c + ":");
+// console.log(a<c);
+// console.log("<br>");
+// console.log(a + ">" + c + ":");
+// console.log(a>c);
+// console.log("<br>");
+// console.log(b + "==" + d + ":");
+// console.log(b==d);
+// console.log("<br>");
+
+
+
+var a=10;
+var b=20;
+var c=10;
+
+// true if a and c are same (same-number)
+
+console.log(a  + "name" + c + ":");
+console.log(a==c);
 console.log("<br>");
-console.log(a + "!=" + b + ":");
+
+// true if a and b are not same (not a same-number)
+
+console.log(a + "name" + b + ":");
 console.log(a!=b);
 console.log("<br>");
-console.log(a + "!=" + c + ":");
-console.log(a!=c);
+
+// true b is greaterthan a 
+
+console.log(b + "hello" + a + ":");
+console.log(b>a);
+console.log("<br>")
+ 
+// true if a is greaterthan or equal to c (same-number)
+
+console.log(a + "operatons" + c + ":");
+console.log(a>=c);
 console.log("<br>");
-console.log(a + "<" + c + ":");
-console.log(a<c);
+
+// true if a is lessthan b
+
+console.log(a + "television" + b + ":");
+console.log(a<b);
 console.log("<br>");
-console.log(a + ">" + c + ":");
-console.log(a>c);
-console.log("<br>");
-console.log(b + "==" + d + ":");
-console.log(b==d);
-console.log("<br>");
+
+
+// true a is lessthan equal to b
+
+console.log(a + "tab" + b + ":");
+console.log(a<=b);
+
