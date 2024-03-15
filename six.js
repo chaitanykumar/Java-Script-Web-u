@@ -8,3 +8,5 @@ var d=0;
  console.log(a&&d);
 
  console.log((5<7)&&(5<3));
+
+ console.log((5<7)&&(1<3));
