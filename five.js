@@ -28,6 +28,8 @@ var b=20;
 var c=10;
 var d="10";
 
+// [ARITHEMATIC-OPERATOR]
+
 // true if a and c are same (same-number)
 
 console.log(a  + "name" + c + ":");
