@@ -1,0 +1,8 @@
+var a=5;
+var b=7;
+var c="name";
+var d=0;
+
+ console.log(a && c);
+
+ console.log(a&&d);
