@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>balance</title>
+</head>
+
+<body>
+    <script>
+        var balance = 20000;
+        var amount = prompt("Enter ammount to transfer");
+
+        if (amount < balance) {
+            alert("before deduction balance:" + balance);
+            balance = balance - amount
+            alert("deduction sucessfully");
+            alert("before deduction balnce:" + balance);
+        }
+
+        else {
+            alert("your balance is :" + balance + "enter amount less than your balance ");
+        }
+    </script>
+</body>
+
+</html>
