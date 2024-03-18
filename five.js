@@ -21,6 +21,44 @@
 // console.log(b==d);
 // console.log("<br>");
 
+// 0-50 =3rd division marks >=0 && marks <50
+// 50-70=2nd div marks >=51 && marks <70
+//70 -100 =topper
+
+
+
+
+let marks =78;
+if(marks<50){
+    console.log("3rd division");
+}
+else if(marks>=50 && marks<69){
+    console.log("2nd division");
+}
+else if(marks>=70 && marks<=100){
+    console.log("Topper");
+}else{
+    console.log("fail")
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 var a=10;
