@@ -1,18 +1,18 @@
 // for loop
 
-// for (let i = 0; i <= 50; i++) {
-//     console.log(i);
-// }
+for (let i = 0; i <= 50; i++) {
+    console.log(i);
+}
 
 // for of loop
 
-let colors=['red','green','blue','white','orange','cream']
-for(let color of colors){
-    console.log(color);
-}
+// let colors=['red','green','blue','white','orange','cream']
+// for(let color of colors){
+//     console.log(color);
+// }
 
-console.log(colors.length);
-console.log(colors[3]);
+// console.log(colors.length);
+// console.log(colors[3]);
 
 // while loop
 
