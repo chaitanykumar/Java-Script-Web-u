@@ -16,18 +16,18 @@
 
 // while loop
 
-// let i=100;
-// while(i<=150){
-//     console.log(i);
-//     i++
-// }
-
-// do while loop
-let i = 600;
-do {
-    //statement
+let i=100;
+while(i<=150){
     console.log(i);
     i++
-} while (i <= 610) {
-    //condition
 }
+
+// // do while loop
+// let i = 600;
+// do {
+//     //statement
+//     console.log(i);
+//     i++
+// } while (i <= 610) {
+//     //condition
+// }
