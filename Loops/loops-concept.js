@@ -6,21 +6,21 @@
 
 // for of loop
 
-// let colors=['red','green','blue','white','orange','cream']
-// for(let color of colors){
-//     console.log(color);
-// }
+let colors=['red','green','blue','white','orange','cream']
+for(let color of colors){
+    console.log(color);
+}
 
-// console.log(colors.length);
-// console.log(colors[3]);
+console.log(colors.length);
+console.log(colors[3]);
 
 // while loop
 
-let i=100;
-while(i<=150){
-    console.log(i);
-    i++
-}
+// let i=100;
+// while(i<=150){
+//     console.log(i);
+//     i++
+// }
 
 // // do while loop
 // let i = 600;
