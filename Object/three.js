@@ -1,8 +1,11 @@
 let emp={
-    name:"rahul gandhi",
-    id:501,
+    id:'601',
+    name:'shankar',
+    location:'Hyderabad',
+    pincode:'50012',
 }
 
-console.log(emp.name);
 console.log(emp.id);
-console.log(emp.loc);
+console.log(emp.name);
+console.log(emp.location);
+console.log(emp.pincode);
