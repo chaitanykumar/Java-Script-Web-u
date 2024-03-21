@@ -4,6 +4,8 @@ let emp={
     location:'Hyderabad',
     pincode:'50012',
 }
+// how to access object values
+// object.propertyname
 
 console.log(emp.id);
 console.log(emp.name);
