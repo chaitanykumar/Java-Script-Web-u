@@ -9,5 +9,5 @@ email:"rahul89@gmail.com"
 
 for (key in emp){
  console.log(key);
- 
+ console.log(emp[key]);
 }
