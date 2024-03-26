@@ -19,6 +19,8 @@ let user={
     "payment1":"online-payment",
    } 
 }
+
 console.log(user.color);
+console.log(user.address.zipcode);
 console.log(user.contact.email);
-console.log(user.services.payment1);
+console.log(user.services.payment);

@@ -4,20 +4,20 @@
 // let emp={
 //     id:101,
 //     name:'rahul'
-// }
+// } 
 
 // console.log(a);
 // console.log(emp);
 
 //array create (values) and array read
 
-let col=["red","blue","green","black"]
-//indexing  0     1       2       3
-console.log(col); //print array with square bracket
-console.log(col[2]); //print using indexing 
-for(co of col){
-    console.log(co);//print with (for of) loop
-}
+// let col=["red","blue","green","black"]
+// //indexing  0     1       2       3
+// console.log(col); //print array with square bracket
+// console.log(col[2]); //print using indexing 
+// for(co of col){
+//     console.log(co);//print with (for of) loop
+// }
 
 //object create (Property :keys & values)and object read
 // let Colors={
@@ -45,6 +45,6 @@ let colors={
 
 console.log('colors');
 for(key in colors){
-    console.log(key);//output
+   console.log(key);//output
     console.log(colors[key]);
 }

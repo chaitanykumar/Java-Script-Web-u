@@ -8,4 +8,4 @@ function emp_Details(id,name,sal){   //Parameters
 }
 emp_Details(101,"Rahul",75000) // Arguments
 emp_Details(102,"Aravind",65000) // Arguments
-emp_Details(103,"kumar",55000) // Arguments
+emp_Details(103,"kumar",55000) // Arguments 
