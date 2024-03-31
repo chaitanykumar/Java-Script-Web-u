@@ -4,13 +4,13 @@ function Greet(){
 }
 Greet();
 
-//Fat Arrow Function
+//Fat Arrow Functions
 
-let Greet1 =  (a,b) => { 
-    return a+b
-    }
-    let result =Greet1(7,9);
-    console.log(result);
+// let Greet1 =  (a,b) => { 
+//     return a+b
+//     }
+//     let result =Greet1(7,9);
+//     console.log(result);
 
 // Implicite Fat Arrow Function
 

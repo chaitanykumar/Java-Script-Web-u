@@ -14,7 +14,7 @@ let rows='';
 for(let user of users ){
     rows=rows+`<tr>
                     <td>${user.id}</td>
-                    <td>${user.first_name}</td>
+                    <td>${user.first_name.toUpperCase()}</td>
                     <td>${user.email}</td>
                     <td>${user.gender}</td>
                 </tr>`
