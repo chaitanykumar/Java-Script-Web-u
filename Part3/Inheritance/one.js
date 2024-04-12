@@ -1,9 +1,8 @@
 class Parent{
-    assets='10L'
+    assets="10L"
 }
 class Child extends Parent{
-    qualities= "Good"
+    qualities="Good"
 }
 let c1=new Child()
-
-console.log(c1)
+console.log(c1);

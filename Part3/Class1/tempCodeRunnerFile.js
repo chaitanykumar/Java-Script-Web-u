@@ -1,1 +1,0 @@
-a1.dep_ammount();

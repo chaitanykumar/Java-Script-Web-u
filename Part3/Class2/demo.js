@@ -23,14 +23,10 @@ class Account{
 } 
           
  let a1=new Account(101,"Rahul",6000)
-console.log("base money",a1);
+console.log("base money",a1);                 
 
 a1.depAmount(7000);
 console.log("deposited",a1);
-
-let rahul=a1.with_Drawl(2000);
-console.log("with drawl",rahul);
-
 
 let Rahul=a1.get_Bal();
 console.log("get balance",Rahul); 
