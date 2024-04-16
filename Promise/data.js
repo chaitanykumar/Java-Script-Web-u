@@ -1,3 +1,4 @@
+//Promise
 let employees = [{ id: 101, name: "Rahul", sal: 4500 },
 { id: 102, name: "kumar", sal: 55000 }]
 
